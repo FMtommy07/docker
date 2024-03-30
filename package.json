@@ -1,0 +1,15 @@
+{
+    "name": "mi-proyecto-nodejs",
+    "version": "1.0.0",
+    "description": "Ejemplo de proyecto Node.js para Jenkins",
+    "scripts": {
+      "test": "echo \"Ejecutando pruebas...\""
+    },
+    "dependencies": {
+      // Tus dependencias aquí
+    },
+    "devDependencies": {
+      // Dependencias de desarrollo aquí
+    }
+  }
+  
